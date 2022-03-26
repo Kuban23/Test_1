@@ -1,0 +1,7 @@
+.form__reg {
+	display: flex;
+	/* justify-content: space-evenly; */
+	flex-wrap: wrap;
+	flex-direction: row;
+   padding-left: 30px;
+}

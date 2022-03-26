@@ -1,0 +1,8 @@
+.form__item {
+   padding-bottom: 10px;
+}
+
+
+.form__item:nth-child(2n+2) {
+	padding-left: 80px;
+}

@@ -1,0 +1,7 @@
+.logo {
+  background-image: url("../../images/paparatnik.jpg");
+  background-repeat: no-repeat;
+  background-size: 400px 100%;
+  object-fit: contain;
+  
+}

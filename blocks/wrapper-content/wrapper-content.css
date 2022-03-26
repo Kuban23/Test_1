@@ -1,0 +1,7 @@
+.wrapper-content {
+	display: flex;
+	margin: auto;
+	/* justify-content: space-between; */
+	max-width: 1100px;
+	height: 100%;
+}

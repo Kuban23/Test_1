@@ -1,0 +1,11 @@
+.logo__wrapper {
+	display: flex;
+   align-items: center;
+   margin-top: 168px;
+   justify-content: center;
+   width: 400px;
+   background: #101111;
+   opacity: 0.6;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}

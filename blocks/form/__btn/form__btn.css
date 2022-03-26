@@ -1,0 +1,16 @@
+.form__btn {
+   margin-top: 40px;
+   margin-left: 30px;
+   color: #FFFF;
+   background-color: #596D48;
+   box-shadow: 2px 4px 4px #596D48;
+   border: none;
+   text-align: center;
+   font-weight: 400;
+   font-family: 'Inter';
+   font-size: 16px;
+   height: 40px;
+   width: 200px;
+   border-radius: 5px;
+   cursor: pointer;
+}

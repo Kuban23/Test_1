@@ -1,0 +1,11 @@
+.form__input::placeholder {
+   font-size: 12px;
+}
+
+.form__input:focus {
+  
+   box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, .2);
+   outline:none;
+  
+}
+
